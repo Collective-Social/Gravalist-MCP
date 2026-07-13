@@ -1,0 +1,19 @@
+{
+  "name": "gravalist-mcp-server",
+  "version": "1.0.0",
+  "description": "Standalone Developer & MCP API Microservice for Gravalist",
+  "main": "server.js",
+  "engines": {
+    "node": "20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.1.1",
+    "firebase-functions": "^7.2.5"
+  },
+  "private": true
+}
