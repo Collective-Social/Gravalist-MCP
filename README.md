@@ -34,8 +34,7 @@ All developers must have an active rider profile.
 
 ### 2. Generate Your API Key
 To protect system resources and cap telemetry usage, you must generate a secure access token.
-- Inside the Gravalist web app, open your **Profile**.
-- Navigate to **Developer Settings**.
+- Log into the Gravalist web app and navigate to your **Profile**.
 - Click **Generate API Token**.
 - Copy this secure `x-api-key` (you will not be able to view it again).
 
